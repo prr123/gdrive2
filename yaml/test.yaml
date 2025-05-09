@@ -1,0 +1,6 @@
+---
+client_id: abc
+client_secret: secret
+scopes:
+  - scopeA
+  - scopeB
